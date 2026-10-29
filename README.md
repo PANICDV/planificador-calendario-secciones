@@ -16,7 +16,8 @@ Python 3 y `python-dateutil` (`pip install python-dateutil`) para generar los ar
 > Quiero mi plan de las próximas dos semanas separado por secciones y colores.
 
 ## Relacionada
-`planificador-familiar`: organiza pareja o familia y usa esta skill para generar los .ics.
+[`planificador-familiar`](https://github.com/PANICDV/planificador-familiar):
+organiza pareja o familia y usa esta skill para generar los .ics.
 
 ## Licencia
 MIT (ver `LICENSE`).
